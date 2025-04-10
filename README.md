@@ -7,6 +7,9 @@ AI Chatbot using OpenAI API, deployed on Hugging Face, with a custom frontend bu
 - The chatbot relies on the OpenAI API. If the API key is inactive or expired, some backend features may not work as expected.
 - This project is intended for learning and showcasing integration of AI with web technologies, not for commercial use.
 
+---
+
+👉 [OPEN THIS PROJECT SITE] (https://harshayellugari.github.io/GenAIBot/)  
 
 ---
 
