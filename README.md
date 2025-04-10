@@ -2,32 +2,40 @@
 AI Chatbot using OpenAI API, deployed on Hugging Face, with a custom frontend built using HTML, CSS & JavaScript.
 ---
 
-## 📌 Projects Included
-
-### 1. Chatbot using OpenAI API
-- A basic conversational chatbot built with OpenAI's GPT model.
-- **Tech Stack**: Python, Flask, OpenAI API
-- **Note**: The project currently requires an active OpenAI API key to run.
-
-### 2. Text Summarizer
-- An app that takes long articles and generates short summaries using OpenAI.
-- **Tech Stack**: Python, Streamlit, OpenAI API
-
----
-
 ## ⚠️ Disclaimer
-Some features may not function due to expired API keys. However, the code structure and logic demonstrate understanding of API integration and prompt design.
+
+- The chatbot relies on the OpenAI API. If the API key is inactive or expired, some backend features may not work as expected.
+- This project is intended for learning and showcasing integration of AI with web technologies, not for commercial use.
+
 
 ---
 
-## 🛠️ Tools Used
-- Python
-- Google Colab
-- OpenAI API
-- Streamlit
-- Flask
+# 🤖 AI Chatbot – OpenAI + Hugging Face + Custom Frontend
 
+This repository contains a full-stack AI chatbot project that combines the power of OpenAI's GPT model with a clean custom-built frontend. The backend is hosted on Hugging Face Spaces, and the user interface is developed using HTML, CSS, and JavaScript.
+
+---
+
+## 🌐 Live Demo
+
+👉 [Try the Chatbot Here](https://huggingface.co/spaces/harshayellugari/ChatbotusingopenAI)  
+
+## 🛠️ Tools & Technologies
+
+- OpenAI API
+- Python
+- Hugging Face Spaces
+- HTML, CSS, JavaScript
 ---
 
 ## 📬 Contact
-Feel free to reach out if you have any questions!
+
+If you have any questions or feedback, feel free to reach out!
+
+---
+
+## 🙏 Acknowledgements
+
+- [OpenAI](https://openai.com/)
+- [Hugging Face](https://huggingface.co/)
+
