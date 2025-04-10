@@ -1,6 +1,5 @@
 # GenAIBot
-Hands-on AI/ML learning projects using Python and OpenAI – focused on APIs, NLP, and prototyping.
-
+AI Chatbot using OpenAI API, deployed on Hugging Face, with a custom frontend built using HTML, CSS & JavaScript.
 ---
 
 ## 📌 Projects Included
